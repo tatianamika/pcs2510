@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SphereColor.cs">
+    <Files>
+      <File FileName="Teste Vuforia 2.sln" Line="1" Column="1" />
+      <File FileName="Assets\CubeColor.cs" Line="4" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\ImageTargetPlayAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets\CaracteristicasObjeto.cs" Line="1" Column="1" />
+      <File FileName="Assets\SphereColor.cs" Line="11" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
