@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Clericskulldir" size="10.000000 5.011765" />
+    <ImageTarget name="testeicone" size="10.000000 4.962406" />
     <ImageTarget name="teste2" size="10.000000 8.000000" />
     <ImageTarget name="teste" size="10.000000 8.000000" />
     <ImageTarget name="pawn" size="10.000000 6.933333" />
